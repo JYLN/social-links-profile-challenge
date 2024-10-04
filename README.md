@@ -28,7 +28,7 @@ Users should be able to:
 ### Links
 
 - Solution URL: [Frontend Mentor](https://www.frontendmentor.io/solutions/social-links-profile-using-tailwind-css-x5iux4sm0A)
-- Live Site URL: [Vercel](https://social-links-profile-challenge-gamma.vercel.app/)
+- Live Site URL: [Vercel](https://jyln-social-links-profile-challenge.vercel.app/)
 
 ## My process
 
